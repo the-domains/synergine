@@ -1,0 +1,28 @@
+name: Synergine
+favicon: null
+layout_spectrum: 0.7280526286922395
+typography_spectrum: 0.5702318311668932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8503706485498697
+  lightness: 0.733463307376951
+  saturation: 0.7420389603357762
+  rhythmicContrast: 0.40845010755583644
+purpose: []
